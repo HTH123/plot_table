@@ -2,7 +2,7 @@
 """
 Created on Thu May 18 16:56:28 2023
 
-绘制类变量表格
+绘制分类变量表格
 
 @author: Administrator
 """
